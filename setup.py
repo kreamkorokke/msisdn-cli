@@ -28,6 +28,8 @@ REQUIREMENTS = [
     'docopt',
     'requests',
     'requests-hawk',
+    'pexpect',
+    'fabric',
     'PyBrowserID',
 ]
 DEPENDENCY_LINKS = []
