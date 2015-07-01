@@ -10,3 +10,4 @@ $(INSTALL_STAMP): setup.py
 
 clean:
 	rm -fr $(VENV)
+	rm -fr msisdn_cli.egg-info
