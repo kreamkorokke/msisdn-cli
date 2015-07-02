@@ -30,8 +30,7 @@ REQUIREMENTS = [
     'requests-hawk',
     'pexpect',
     'fabric',
-    'twilio',
-    'PyBrowserID',
+    'PyBrowserID'
 ]
 DEPENDENCY_LINKS = []
 ENTRY_POINTS = {
